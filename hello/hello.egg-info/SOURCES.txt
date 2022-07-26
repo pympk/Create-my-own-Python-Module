@@ -1,0 +1,10 @@
+README.rst
+setup.py
+hello/__init__.py
+hello/people.py
+hello/world.py
+hello.egg-info/PKG-INFO
+hello.egg-info/SOURCES.txt
+hello.egg-info/dependency_links.txt
+hello.egg-info/not-zip-safe
+hello.egg-info/top_level.txt
